@@ -1,14 +1,5 @@
+*
+!.gitignore
+!*.java
 
-\.metadata/\.plugins/org\.eclipse\.core\.resources/\.projects/ERP/org\.eclipse\.jdt\.core/state\.dat
-
-\.metadata/\.plugins/org\.eclipse\.core\.resources/\.history/55/301bdffe112c00171eb9d25947504b55
-
-\.metadata/\.plugins/org\.eclipse\.core\.resources/\.history/55/
-
-*.dat
-
-*.class
-
-\.metadata/\.plugins/org\.eclipse\.jdt\.core/savedIndexNames\.txt
-
-*.snap
+!*/
